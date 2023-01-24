@@ -48,6 +48,7 @@ h3 {
     }
 
 /*Bellow are the style for the menu links*/
+
     a:link{
     color:#609;
     }
@@ -86,4 +87,10 @@ h3 {
     .navigation a:hover{
     background-color: #c4e8b1;
     }
-        
+/*
+    .navigation a::selection{
+        text-decoration: none;
+        color: yellow;
+        font-weight: bold;  
+    }
+        */
